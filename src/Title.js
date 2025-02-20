@@ -1,14 +1,12 @@
-import React from 'react';
-import './Title.css';
+import "./Title.css";
 
-function Title(){
-    return(
-        <div>
-            <h1>SFPOPOS</h1>
-            <div className="Title-Subtitle">San Francisco Privately Owned Public Open Spaces</div>
-        </div>
-
-    )
+function Title() {
+  return (
+    <div className="Title">
+      <h1>SFPOPOS</h1>
+      <p>San Francisco Privately Owned Public Open Spaces</p>
+    </div>
+  );
 }
 
-export default Title
+export default Title;
