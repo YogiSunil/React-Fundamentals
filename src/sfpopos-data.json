@@ -1,15 +1,76 @@
 [
-    {
-      "title": "Transamerica Redwood Park",
-      "desc": "Located in the shadow of the Transamerica Pyramid, Redwood Park is one of the Financial District's greenest and most serene spots. Here, towering redwoods surround a half acre of statues and a large central water feature. Plus, the park is often empty, which means there's almost always a bench available for the hogging. Potential visitors take note: The park is closed every evening",
-      "address": "600 Montgomery St San Francisco, CA",
-      "geo": {
-        "lat": 37.7952005,
-        "lon": -122.4027927
-      },
-      "images": ["transamerica-redwood-park.jpg"],
-      "website": "https://pyramidcenter.com/point-of-interest/redwood-park/",
-      "features": ["outdoors", "coffee"]
-    }
-  ]
-  
+  {
+    "title": "Transamerica Redwood Park",
+    "desc": "Located in the shadow of the Transamerica Pyramid, Redwood Park is one of the Financial District's greenest and most serene spots. Here, towering redwoods surround a half acre of statues and a large central water feature. Plus, the park is often empty, which means there's almost always a bench available for the hogging. Potential visitors take note: The park is closed every evening.",
+    "address": "600 Montgomery St San Francisco, CA",
+    "geo": {
+      "lat": 37.7952005,
+      "lon": -122.4027927
+    },
+    "images": [
+      "transamerica-redwood-park.jpg"
+    ],
+    "website": "https://pyramidcenter.com/point-of-interest/redwood-park/",
+    "features": ["outdoors", "coffee"]
+  },
+  {
+    "title": "50 California Street",
+    "address": "50 California St",
+    "desc": "50 California Street is a prominent office building located in the heart of San Francisco's Financial District. The building features a spacious lobby, modern amenities, and easy access to public transportation.",
+    "hours": "9am - 5pm",
+    "geo": {
+      "lat": 37.7936,
+      "lon": -122.3965
+    },
+    "images": [
+      "50-california-st.jpg"
+    ],
+    "website": "https://example.com/50-california-st",
+    "features": ["outdoors", "coffee", "art"]
+  },
+  {
+    "title": "101 California Street",
+    "address": "101 California St",
+    "desc": "101 California Street is a landmark skyscraper in San Francisco. The building is known for its distinctive cylindrical shape and glass facade. It offers stunning views of the city and the bay.",
+    "hours": "8am - 6pm",
+    "geo": {
+      "lat": 37.7929,
+      "lon": -122.3981
+    },
+    "images": [
+      "101-california.jpg"
+    ],
+    "website": "https://example.com/101-california-st",
+    "features": ["toilet", "power"]
+  },
+  {
+    "title": "Union Square",
+    "address": "333 Post St, San Francisco, CA",
+    "desc": "Union Square is a major commercial and cultural hub in San Francisco. It is known for its upscale shopping, dining, and entertainment options. The square is also a popular gathering place for events and performances.",
+    "hours": "Open 24 hours",
+    "geo": {
+      "lat": 37.787994,
+      "lon": -122.407437
+    },
+    "images": [
+      "union-square.jpg"
+    ],
+    "website": "https://unionsquare.com",
+    "features": ["outdoors", "art", "toilet"]
+  },
+  {
+    "title": "Yerba Buena Gardens",
+    "address": "750 Howard St, San Francisco, CA",
+    "desc": "Yerba Buena Gardens is a vibrant public space in the heart of San Francisco. The gardens feature beautiful landscaping, public art installations, and a variety of cultural attractions. It is a great place to relax and enjoy the outdoors.",
+    "hours": "6am - 10pm",
+    "geo": {
+      "lat": 37.7845,
+      "lon": -122.4022
+    },
+    "images": [
+      "yerba-buena-gardens.jpg"
+    ],
+    "website": "https://yerbabuenagardens.com",
+    "features": ["outdoors", "art", "coffee", "toilet"]
+  }
+]
